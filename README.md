@@ -42,7 +42,7 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 <p align="center">
 <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmalAljabri&show_icons=true&theme=radical" />
 </p>
-<p align="center">
-  <img align="center" img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalAljabri=html,&hide_border=true&title_color=5391FE&text_color=555"
+<p align="center">/>
+  <img align="center" img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalAljabri&layout=Compact layout"/>
 </p>
 
