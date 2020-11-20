@@ -2,6 +2,8 @@
 
 ### I'm a Developer & Researcher 💻
 
+![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 - 🔭 I’m currently working on several projects.
 - 🌱 I’m currently learning Data Sciense & AI & Django & Flutter.
 - 👯 I’m looking to collaborate on any projects related to AI.
