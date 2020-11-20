@@ -20,4 +20,4 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 ### Languages and Tools 🚀
 
 ### My GitHub Stats 📈 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmalAljabri&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmalAljabri&show_icons=true&theme=radical" />
