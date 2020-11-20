@@ -19,9 +19,11 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 
 ### Languages and Tools 🚀
 <p align="center">
-	<img title="python" alt="python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" />
-	<img title="javascript" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="50" />
-	<img title="java" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/java.svg" width="50" />
+	<img title="python" alt="python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" /> &nbsp;
+	<img title="javascript" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="50" />&nbsp;
+	<img title="java" alt="java" src="https://cdn.worldvectorlogo.com/logos/java.svg" width="50" />&nbsp;
+	<img title="html" alt="html" src="https://cdn.worldvectorlogo.com/logos/html.svg" width="50" />&nbsp;
+	<img title="css" alt="css" src="https://cdn.worldvectorlogo.com/logos/css.svg" width="50" />&nbsp;
 </p>
 
 ### My GitHub Stats 📈 
