@@ -1,6 +1,7 @@
 ### Hi there, I’m Amal Aljabri 👋
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
-### I'm a fresh graduate 🎓. I'm a developer and researcher 💻. I have a bachelor's degree in computer science with first honors 🏅, also have an associate degree in computer programming and information with first honors🥇.
+
+I'm a fresh graduate 🎓. I'm a developer and researcher 💻. I have a bachelor's degree in computer science with first honors 🏅, also have an associate degree in computer programming and information with first honors🥇.
 
 ![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
