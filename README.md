@@ -3,7 +3,10 @@
 
 I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I have a bachelor's degree in computer science with first honors 🏅, also have an associate degree in computer programming and information with first honors🥇.
 
-![](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+<p align="center">
+<img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+</p>
+
 
 - ⭐️ I'm interested in mobile and web app development, machine learning, deep learning, computer vision, augmented and virtual reality.
 - 🔭 I’m currently working on several projects.
@@ -20,4 +23,4 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 ### Languages and Tools 🚀
 
 ### My GitHub Stats 📈 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmalAljabri&show_icons=true&theme=radical" />
+<img align="center" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AmalAljabri&show_icons=true&theme=radical" />
