@@ -12,4 +12,4 @@
 - ⚡ Fun fact: I love automating almost everything I can and I enjoy building things all by myself.
 
 ### Connect with me 📫 
-![Image](https://octodex.github.com/images/yaktocat.png)
+
