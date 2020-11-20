@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"></p>
 ### Hi there, I’m Amal Aljabri 👋 
 ![](https://komarev.com/ghpvc/?username=AmalAljabri&color=ff69b4)
 
