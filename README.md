@@ -20,7 +20,7 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 ### Languages and Tools 🚀
 <p align="center">
 	<img title="python" alt="python" src="https://www.python.org/static/img/python-logo@2x.png" width="100" />
-	<img title="php" alt="php" src="icons/php.png" width="100" />
+	<img title="javascript" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" width="100" />
 </p>
 
 ### My GitHub Stats 📈 
