@@ -16,6 +16,8 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 - ⚡ Fun fact: I love automating almost everything I can and I enjoy building things all by myself.
 
 ### Connect with me 📫 
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber"My YouTube")
+
 
 ### The languages and tools I use 🚀
 <p align="center">
