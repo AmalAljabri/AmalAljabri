@@ -1,5 +1,5 @@
 ### Hi there, I’m Amal Aljabri 👋 
-<p align="center">![](https://komarev.com/ghpvc/?username=AmalAljabri&color=ff69b4)</p>
+![](https://komarev.com/ghpvc/?username=AmalAljabri&color=ff69b4)
 
 I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I have a bachelor's degree in computer science with first honors 🏅, also have an associate degree in computer programming and information with first honors🥇.
 
