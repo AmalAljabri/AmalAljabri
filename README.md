@@ -22,7 +22,8 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 
 ### Languages and Tools 🚀
 <p align="center">
-	<img title="python" alt="python" src="https://www.python.org/static/img/python-logo@2x.png" width="40" />
+	<img title="python" alt="python" src="https://www.python.org/static/img/python-logo@2x.png" width="100" />
+	<img title="python" alt="python" src="https://www.python.org/static/img/python-logo@2x.png" width="100" />
 </p>
 
 ### My GitHub Stats 📈 
