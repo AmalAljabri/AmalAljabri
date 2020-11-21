@@ -16,13 +16,13 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 - ⚡ Fun fact: I love automating almost everything I can and I enjoy building things all by myself.
 
 ### Connect with me 📫 
-[![](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber"My YouTube")
-
-
+[![YouTube](https://cdn.worldvectorlogo.com/logos/youtube-3.svg)](https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber)
+[![Twitter](https://worldvectorlogo.com/logo/twitter)](https://twitter.com/amal_aljabri1)
 ### The languages and tools I use 🚀
 <p align="center">
 	<img title="python" alt="python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" /> &nbsp;
 	<img title="javascript" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" height="40px"/>&nbsp;
+	</p>
 	<img title="java" alt="java" src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40px" />&nbsp;
 	<img title="html" alt="html" src="https://cdn.worldvectorlogo.com/logos/html5.svg" height="40px" />&nbsp;
 	<img title="css" alt="css" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" height="40px" />&nbsp;
