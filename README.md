@@ -17,8 +17,8 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 
 ### Connect with me 📫 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber"><img  title="youtube" alt="youtube" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" width="70" height="50px"></img></a>
-<a href="https://twitter.com/amal_aljabri1"><img  title="twitter" alt="twitter" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" width="70" height="60px"></img></a>
+<a href="https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber"><img  title="youtube" alt="youtube" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" width="40"></img></a>
+<a href="https://twitter.com/amal_aljabri1"><img  title="twitter" alt="twitter" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" width="40"></img></a>
 </p>
 ### The languages and tools I use 🚀
 <p align="center">
