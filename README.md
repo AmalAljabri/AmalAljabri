@@ -16,8 +16,9 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 - ⚡ Fun fact: I love automating almost everything I can and I enjoy building things all by myself.
 
 ### Connect with me 📫 
-[![YouTube](https://cdn.worldvectorlogo.com/logos/youtube-3.svg)](https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber)
-[![Twitter](https://worldvectorlogo.com/logo/twitter)](https://twitter.com/amal_aljabri1)
+
+
+
 ### The languages and tools I use 🚀
 <p align="center">
 	<img title="python" alt="python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" /> &nbsp;
