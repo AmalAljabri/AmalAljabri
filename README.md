@@ -17,14 +17,13 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 
 ### Connect with me 📫 
 <p align="center">
-<a href="https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber"><img  title="youtube" alt="youtube" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" height="40px"></img></a>
-<a href="https://twitter.com/amal_aljabri1"><img  title="twitter" alt="twitter" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" height="40px"></img></a>
+<a href="https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber"><img  title="youtube" alt="youtube" src="https://cdn.worldvectorlogo.com/logos/youtube-3.svg" width="70" height="40px"></img></a>
+<a href="https://twitter.com/amal_aljabri1"><img  title="twitter" alt="twitter" src="https://cdn.worldvectorlogo.com/logos/twitter.svg" width="70" height="40px"></img></a>
 </p>
 ### The languages and tools I use 🚀
 <p align="center">
 	<img title="python" alt="python" src="https://cdn.worldvectorlogo.com/logos/python-5.svg" height="40px" /> &nbsp;
 	<img title="javascript" alt="javascript" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" height="40px"/>&nbsp;
-	</p>
 	<img title="java" alt="java" src="https://cdn.worldvectorlogo.com/logos/java.svg" height="40px" />&nbsp;
 	<img title="html" alt="html" src="https://cdn.worldvectorlogo.com/logos/html5.svg" height="40px" />&nbsp;
 	<img title="css" alt="css" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" height="40px" />&nbsp;
