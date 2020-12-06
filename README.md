@@ -17,4 +17,4 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 
 ### Connect with me 📫 
 - **[YouTube](https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber)**
-
+- **[Twitter](https://twitter.com/AS_Aljabri)**
