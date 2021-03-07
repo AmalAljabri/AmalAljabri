@@ -5,7 +5,7 @@
 I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I have a bachelor's degree in computer science with first honors 🏅, also have an associate degree in computer programming and information with first honors🥇.
 
 <p align="center">
-<img align="center" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
+<img align="center" alt="GIF" src="https://amalaljabri.github.io/images/logo.gif" />
 </p>
 
 
