@@ -13,7 +13,7 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 
 ### Connect with me 📫 
 <p align="center">
-  <a href="https://twitter.com/AS_Aljabri"><img src="https://img.shields.io/badge/website-%23161B22.svg?&logo=website&logoColor=white" /></a>
+  <a href="https://amalaljabri.github.io/"><img src="https://img.shields.io/badge/website-%23161B22.svg?&logo=web&logoColor=white" /></a>
 <a href="https://twitter.com/AS_Aljabri"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&logo=twitter&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/amal-aljabri"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:amal.aljabri17@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&logo=gmail&logoColor=white" /></a>
