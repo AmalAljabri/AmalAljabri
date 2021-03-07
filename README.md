@@ -18,3 +18,9 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 ### Connect with me 📫 
 - **[YouTube](https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos?view_as=subscriber)**
 - **[Twitter](https://twitter.com/AS_Aljabri)**
+
+ <a href="https://twitter.com/AS_Aljabri"><img class="space" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+                <a href="https://www.linkedin.com/in/amal-aljabri"><img class="space" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+                <a href="mailto:amal.aljabri17@gmail.com"><img class="space" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+                <a href="https://github.com/AmalAljabri"><img class="space" src="https://img.shields.io/badge/github-%23323131.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
+                <a href="https://www.youtube.com/channel/UCo5YQBPpqqnN8gEDCFSs6rQ/videos"><img class="space" src="https://img.shields.io/badge/youtube-%23ff0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" /></a>
