@@ -8,12 +8,12 @@ I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I hav
 </p>
 
 
-<p> ⭐️ I'm interested in mobile and web app development, machine learning, deep learning, computer vision, augmented and virtual reality.</p>
-<p> 🔭 I’m currently working on several projects.</p>
-<p> 🌱 I’m currently learning AI & NLP & Flutter.</p>
-<p> 👯 I’m looking to collaborate on any projects related to AI.</p>
-<p> 💬 Ask me about AI & AR & Web Development.</p>
-<p> ⚡ Fun fact: I love automating almost everything I can and I enjoy building things all by myself.</p>
+- ⭐️ I'm interested in mobile and web app development, machine learning, deep learning, computer vision, augmented and virtual reality.
+- 🔭 I’m currently working on several projects.
+- 🌱 I’m currently learning AI & NLP & Flutter.
+- 👯 I’m looking to collaborate on any projects related to AI.
+- 💬 Ask me about AI & AR & Web Development.
+- ⚡ Fun fact: I love automating almost everything I can and I enjoy building things all by myself.
 
 ### Connect with me 📫 
 <p align="center">
