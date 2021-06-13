@@ -3,7 +3,7 @@
 <a href="https://amalaljabri.github.io/"><img src="https://img.shields.io/badge/My Personal Website-%23F06AAC.svg?&logoColor=white" /></a>
 ![](https://komarev.com/ghpvc/?username=AmalAljabri&color=ff69b4)
 
-I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I have a bachelor's degree in computer science with first honors 🏅, also have an associate degree in computer programming and information with first honors🥇.
+I'm a developer and researcher in computer science 👩🏻‍💻
 
 - ⭐️ I'm interested in mobile and web app development, machine learning, deep learning, computer vision and more ...
 - 🔭 I’m currently working on several projects!
