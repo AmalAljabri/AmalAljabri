@@ -1,11 +1,8 @@
 ### Hi there, I’m Amal Aljabri 👋 
 
 ![](https://komarev.com/ghpvc/?username=AmalAljabri&color=ff69b4)
-![](https://amalaljabri.github.io/"><img src="https://img.shields.io/badge/My Personal Website-%23161B22.svg?&logoColor=white)
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=AmalAljabri&color=ff69b4" /></a>
- <a href="https://amalaljabri.github.io/"><img src="https://img.shields.io/badge/My Personal Website-%23161B22.svg?&logoColor=white" /></a>
-</p>
+<a href="https://amalaljabri.github.io/"><img src="https://img.shields.io/badge/My Personal Website-%23161B22.svg?&logoColor=white" /></a>
+
 
 I'm a fresh graduate 🎓. I'm a developer and researcher 👩🏻‍💻. I have a bachelor's degree in computer science with first honors 🏅, also have an associate degree in computer programming and information with first honors🥇.
 
